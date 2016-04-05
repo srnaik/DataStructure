@@ -13,6 +13,7 @@ public class EnumerationMain {
 		namesOfDays.addElement("Sunday");
 		namesOfDays.addElement("Monday");
 		System.out.println(namesOfDays.add("Tuesday"));
+		namesOfDays.addElement("Wednesday");
 		
 		enumeration = namesOfDays.elements();
 		
